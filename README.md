@@ -1,5 +1,6 @@
 # Image Difference Watcher
 [![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square)](/LICENSE)  [![Version](https://img.shields.io/badge/VERSION-DEBUG%20--%20demonstrable-yellow?style=flat-square)](https://github.com/averov90/ImageDiffWatcher/releases/tag/1.0)
+### :small_orange_diamond: [English version](https://github.com/averov90/ImageDiffWatcher/blob/master/README-eng.md)
 #### Находит отличия между статичным изображением и потоком с камеры в цветовом канале (с фильтрацией шума).
 Данным кодом реализован поиск отличий текущего изображения (сохранённого) с каждым изображением из потока.
 Общий смысл кода в том, чтобы найти значимые отличия между статичной картинкой и секвенцией (результаты поиска отличий выводятся).
